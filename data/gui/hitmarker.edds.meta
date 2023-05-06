@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{3C110C37C4F51049}HitMarker.edds"
+ Author "desktop-hvnr3us"
+ ChangeDate 901541267
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "HitMarker.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}
